@@ -22,3 +22,4 @@ musteri1.lastName = "Çakmak";
 
 MusteriManager manager = new MusteriManager();
 manager.MusteriEkleme(musteri1);
+/*asfg*/
